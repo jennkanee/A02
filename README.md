@@ -30,14 +30,25 @@
 **Glossary**
 
 **Branch** - Isolated section of the repository that allows developers to work on code without interfering with each other.
+
 **Clone** - Copy of the repository.
+
 **Commit** - Way to record changes to the files in a repository.
+
 **Fetch** - Command to download contents of a repository.
+
 **GIT** - Version control system, which keeps track of changes to files.
+
 **Github** - Web-based VCS that allows mutliple people to work on the same project over the web.
+
 **Merge** - Connecting branches of a project into one.
+
 **Merge Conflict** - When multiple branches have changes to the same section of code.
-**Push** - Upload a local repository to Github
+
+**Push** - Upload a local repository to Github.
+
 **Pull** - Retrieves and downloads content from github to local repository.
+
 **Remote** - Repository that is stored on a different network.
+
 **Repository** - Folder that contains all files in a project, as well as the revision history of the files.
