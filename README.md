@@ -52,3 +52,8 @@
 **Remote** - Repository that is stored on a different network.
 
 **Repository** - Folder that contains all files in a project, as well as the revision history of the files.
+
+Citation:
+
+Hendela, Arthur H. Ph.D. (2019). "Introduction to Github and Webstorm". NJIT.
+
